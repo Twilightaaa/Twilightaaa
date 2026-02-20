@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Jiwei Tang.  
 
 - 🌱 I’m currently pursuing a Master of Engineering (M.Eng.) at Tsinghua University, expected to graduate in 2027.  
-- 🔭 My research focuses on **Efficient Large Language Models**. I am a research intern of Future Living Lab of Alibaba (Language Foundation Model).  
+- 🔭 I'm a Research Intern at Alibaba's Future Living Lab (Language Foundation Model), focusing on Efficient LLMs.
 - 😄 My current goal is to build **impactful** open-source projects. Feel free to reach out if you have relevant opportunities.
 - 💬 Reach out for questions or collaborations at [tangjw24@mails.tsinghua.edu.cn](mailto:tangjw24@mails.tsinghua.edu.cn).
 
