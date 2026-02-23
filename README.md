@@ -4,6 +4,7 @@
 - 🔭 I'm a Research Intern at Alibaba's Future Living Lab (Language Foundation Model), focusing on Efficient LLMs.
 - 😄 My current goal is to build **impactful** open-source projects. Feel free to reach out if you have relevant opportunities.
 - 💬 Reach out for questions or collaborations at [tangjw24@mails.tsinghua.edu.cn](mailto:tangjw24@mails.tsinghua.edu.cn).
+- 📫 Seeking PhD positions for Fall 2027.
 
 <!--
 **Twilightaaa/Twilightaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
