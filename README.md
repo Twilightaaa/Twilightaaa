@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Jiwei Tang.  
 
 - 🌱 I’m currently pursuing a Master of Engineering (M.Eng.) at Tsinghua University, expected to graduate in 2027.  
-- 🔭 I'm a Research Intern at Alibaba's Future Living Lab (Language Foundation Model), focusing on Efficient LLMs.
+- 🔭 I'm a Research Intern at Alibaba's Future Living Lab (Foundation Model Team), focusing on Efficient LLMs.
 - 😄 My current goal is to build **impactful** open-source projects. Feel free to reach out if you have relevant opportunities.
 - 💬 Reach out for questions or collaborations at [tangjw24@mails.tsinghua.edu.cn](mailto:tangjw24@mails.tsinghua.edu.cn).
-- 📫 I'm Seeking **PhD** positions for Fall 2027.
+- 📫 More information about me is on [homepage](https://twilightaaa.github.io/). I'm Seeking **PhD** positions for Fall 2027.
 
 <!--
 **Twilightaaa/Twilightaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
