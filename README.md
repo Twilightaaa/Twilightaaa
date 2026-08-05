@@ -4,7 +4,7 @@
 - 🔭 Research Intern at Ant Group ([Ling](https://huggingface.co/inclusionAI) Post-training Team) | Prev. Future Living Lab of Alibaba | Efficient LLMs/Agents.
 - 😄 My current goal is to build **impactful** open-source projects. Feel free to reach out if you have relevant opportunities.
 - 💬 Reach out for questions or collaborations at [tangjw24@mails.tsinghua.edu.cn](mailto:tangjw24@mails.tsinghua.edu.cn).
-- 📫 More information about me is on [homepage](https://twilightaaa.github.io/). I'm Seeking **PhD** positions for Fall 2027.
+- 📫 More information about me is on [homepage](https://twilightaaa.github.io/).
 
 <!--
 **Twilightaaa/Twilightaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
