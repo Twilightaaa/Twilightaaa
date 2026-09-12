@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Jiwei Tang.  
 
 - 🌱 I’m currently pursuing a Master of Engineering (M.Eng.) at Tsinghua University, expected to graduate in 2027.  
-- 🔭 Researcher at Meituan [LongCat](https://huggingface.co/meituan-longcat) Team | Prev. Ant Group [Ling](https://huggingface.co/inclusionAI) Team, Future Living Lab of Alibaba | Efficient LLMs/Agents.
+- 🔭 Researcher at Meituan [LongCat](https://huggingface.co/meituan-longcat) Team (Top Talent) | Prev. Ant Group [Ling](https://huggingface.co/inclusionAI) Team, Future Living Lab of Alibaba | Efficient LLMs.
 - 😄 My current goal is to build **impactful** open-source projects. Feel free to reach out if you have relevant opportunities.
 - 💬 Reach out for questions or collaborations at [tangjw24@mails.tsinghua.edu.cn](mailto:tangjw24@mails.tsinghua.edu.cn).
 - 📫 More information about me is on [homepage](https://twilightaaa.github.io/).
